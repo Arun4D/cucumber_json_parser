@@ -1,6 +1,9 @@
 # cucumber_json_parser
 
-This is script used to pull the test execution status from cucumber and generate result json to update the existing test execution
+This is script used to pull the test execution status from cucumber and generate result json to update the existing test execution.
+
+Refer https://confluence.xpand-it.com/display/public/XRAY/Import+Execution+Results+-+REST
+
 
 ### Input parameters to run the test
 ````
