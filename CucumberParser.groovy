@@ -79,8 +79,6 @@ cucumberResultObj.each { arrayValue ->
                                                         }
                                                 }
                                             }
-
-
                                     }
                             }
                         }
