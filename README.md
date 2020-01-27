@@ -9,7 +9,7 @@ Refer https://confluence.xpand-it.com/display/public/XRAY/Import+Execution+Resul
 ````
 args 0 - "cucumber.json"        -- Generated cucumber file after finish execution
 args 1 - "C:\tools\cucumber"    -- Generated cucumber file 
-args 2 - "result.json"          -- Result Json. Used to pass to XRAY APi to update the test execution 
+args 2 - "result.json"          -- Result Json file name. Used to pass to XRAY APi to update the test execution 
 args 3 - "DEMO-1206"            -- TestExecutionKey need to pass to update the existing test execution
 
 ````
