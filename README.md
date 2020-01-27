@@ -1,4 +1,4 @@
-# cucumber_json_parser
+# cucumber json parser to update xray test execution tests
 
 This is script used to pull the test execution status from cucumber and generate result json to update the existing test execution.
 
