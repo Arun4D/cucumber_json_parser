@@ -1,5 +1,7 @@
 # cucumber_json_parser
 
+This is script used to pull the test execution status from cucumber and generate result json to update the existing test execution
+
 ### Input parameters to run the test
 ````
 args 0 - "cucumber.json"        -- Generated cucumber file after finish execution
