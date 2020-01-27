@@ -1,6 +1,6 @@
 # cucumber_json_parser
 
-### Input parameters to test
+### Input parameters to run the test
 ````
 args 0 - "cucumber.json" 
 args 1 - "C:\tools\cucumber" 
